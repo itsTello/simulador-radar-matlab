@@ -4,7 +4,7 @@ Desarrollado en MATLAB, este proyecto es un simulador en tiempo real de un radar
 
 El objetivo de esta herramienta es observar de forma inmediata cómo los parámetros de diseño (potencia, ancho de pulso, ganancia, etc.) afectan al alcance, la resolución radial y la tasa de falsas alarmas[cite: 1].
 
-*Para un desglose analítico completo de las ecuaciones de diseño y el dimensionamiento del sistema, consulta la **[Memoria Técnica adjunta (PDF)](#)**.*
+*Para un desglose analítico completo de las ecuaciones de diseño y el dimensionamiento del sistema, consulta la **[Memoria Técnica adjunta (PDF)](Memoria_Radar_DavidTelloYMarioPiqueras.pdf)**.*
 
 ## ⚙️ Características y Modelado Físico
 
